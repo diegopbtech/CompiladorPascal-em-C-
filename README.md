@@ -1,6 +1,7 @@
 # CompiladorPascal - Desenvolvido em C++
 
-UNIVERSIDADE FEDERAL DA PARAÍBA – CENTRO DE INFORMÁTICA LPII - Construção de Compiladores - 2023.2 Prof. Clauirton de Albuquerque Siebra
+UNIVERSIDADE FEDERAL DA PARAÍBA – CENTRO DE INFORMÁTICA
+Construção de Compiladores - 2023.2 Prof. Clauirton de Albuquerque Siebra
 
 Equipe:
 
