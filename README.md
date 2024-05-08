@@ -9,6 +9,7 @@ O objetivo do projeto é a criação de um compilador para a linguagem Pascal, d
 
 UNIVERSIDADE FEDERAL DA PARAÍBA – CENTRO DE INFORMÁTICA LPII - Construção de Compiladores - 2023.2 Prof. Clauirton de Albuquerque Siebra
 
-Equipe: Diego Araújo dos Santos
+Equipe:
 
-        Fellype Henrique da Silva
+Diego Araújo dos Santos
+Fellype Henrique da Silva
