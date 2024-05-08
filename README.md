@@ -11,5 +11,5 @@ UNIVERSIDADE FEDERAL DA PARAÍBA – CENTRO DE INFORMÁTICA LPII - Construção 
 
 Equipe:
 
-Diego Araújo dos Santos
-Fellype Henrique da Silva
+- Diego Araújo dos Santos
+- Fellype Henrique da Silva
